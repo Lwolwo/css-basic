@@ -53,9 +53,13 @@ D)  .section > h1 { color:blue; }
 4)  <lable> 以上都不对 </lable>  
 
 A 0020
+
 B 0100
+
 C 0010 使用了`!important`，优先级最高
+
 D 0011
+
 C > B > A > D
   
   
